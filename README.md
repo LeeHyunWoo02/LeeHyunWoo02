@@ -50,7 +50,7 @@
 <!-- BOJ 티어 -->
 <h3 align="center">🎯 BOJ Stats 🎯</h3>
 <div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=atropic159"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=LeeHyunWoo02"/>
 </div>
 
 <!-- 방문자 수 -->
