@@ -88,8 +88,8 @@
     </tr>
     <tr>
       <td>Hanyang-Univ</td>
-      <td><a href="https://github.com/hallucination-devfest">별별기록</a></td>
-      <td>Hackathon, Back-End Engineering</td>
+      <td><a href="https://github.com/hallucination-devfest">주랑</a></td>
+      <td>Back-End Engineering</td>
       <td>2024.10</td>
     </tr>
     <tr>
