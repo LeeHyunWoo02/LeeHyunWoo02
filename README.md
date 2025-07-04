@@ -88,7 +88,7 @@
     </tr>
     <tr>
       <td>Hanyang-Univ</td>
-      <td><a href="https://github.com/hallucination-devfest">주랑</a></td>
+      <td><a href="https://github.com/Choi-89/JooLang">주랑</a></td>
       <td>Back-End Engineering</td>
       <td>2024.10</td>
     </tr>
@@ -100,13 +100,13 @@
     </tr>
     <tr>
       <td>Hanyang-Univ</td>
-      <td><a href="https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_34_BE"> FishShip</a></td>
+      <td><a href="https://github.com/RAVNUS-INC/KnowMe-Backend"> FishShip</a></td>
       <td>Back-End Engineering</td>
       <td>2025.03~2025.06</td>
     </tr>
     <tr>
       <td>OpenSource Content</td>
-      <td><a href="https://github.com/TOPLEARTH">머스크멜론</a></td>
+      <td><a href="">머스크멜론</a></td>
       <td>Contest, Back-End Engineering</td>
       <td>2025.07 ~ </td>
     </tr>
@@ -125,7 +125,7 @@
       <th>Period</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/PROMAplatform">Contest</a></td>
+      <td><a href="">Contest</a></td>
       <td>2024 창업 메이커톤 대회</td>
       <td>우수상</td>
       <td>2025.06</td>
