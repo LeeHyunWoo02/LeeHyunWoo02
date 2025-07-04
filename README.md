@@ -94,7 +94,7 @@
     </tr>
     <tr>
       <td>Hanyang-Univ</td>
-      <td><a href="https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_34_BE"> ForLong</a></td>
+      <td><a href="https://github.com/ForLongTeam/ForLong-backend"> ForLong</a></td>
       <td>Back-End Engineering</td>
       <td>2024.09</td>
     </tr>
