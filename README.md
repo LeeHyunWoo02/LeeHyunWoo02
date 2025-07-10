@@ -100,7 +100,7 @@
     </tr>
     <tr>
       <td>Hanyang-Univ</td>
-      <td><a href="https://github.com/RAVNUS-INC/KnowMe-Backend"> FishShip</a></td>
+      <td><a href="https://github.com/LeeHyunWoo02/KnowMe-Backend.git"> FishShip</a></td>
       <td>Back-End Engineering</td>
       <td>2025.03~2025.06</td>
     </tr>
