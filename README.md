@@ -88,7 +88,7 @@
     </tr>
     <tr>
       <td>Hanyang-Univ</td>
-      <td><a href="https://github.com/Choi-89/JooLang">주랑</a></td>
+      <td><a href="https://github.com/LeeHyunWoo02/Joolang.git">주랑</a></td>
       <td>Back-End Engineering</td>
       <td>2024.10</td>
     </tr>
