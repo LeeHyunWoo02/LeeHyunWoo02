@@ -33,9 +33,11 @@
         <div align="left">
           <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
           &nbsp;
-          <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+          <img src="https://img.shields.io/badge/FastAPI-092E20?style=for-the-badge&logo=FastAPI&logoColor=green" />
           &nbsp;
           <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+          &nbsp;
+          <img src="https://img.shields.io/badge/pytorch-257bd6?style=for-the-badge&logo=pytorch&logoColor=blue" />
           &nbsp;
         </div>
       </td>
