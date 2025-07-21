@@ -107,9 +107,9 @@
       <td>2025.03~2025.06</td>
     </tr>
     <tr>
-      <td>OpenSource Content</td>
-      <td><a href="">머스크멜론</a></td>
-      <td>Contest, Back-End Engineering</td>
+      <td>Side-Project</td>
+      <td><a href="https://github.com/LeeHyunWoo02/PENBOT">PENBOT</a></td>
+      <td>Side Project, Back-End Engineering</td>
       <td>2025.07 ~ </td>
     </tr>
 
