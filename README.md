@@ -18,8 +18,6 @@
       <td align="center">Language</td>
       <td>
         <div align="left">
-          <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-          &nbsp;
           <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
           <br/>
         </div>
@@ -88,12 +86,6 @@
     </tr>
     <tr>
       <td>Hanyang-Univ</td>
-      <td><a href="https://github.com/LeeHyunWoo02/Joolang.git">주랑</a></td>
-      <td>Back-End Engineering</td>
-      <td>2024.10</td>
-    </tr>
-    <tr>
-      <td>Hanyang-Univ</td>
       <td><a href="https://github.com/ForLongTeam/ForLong-backend"> ForLong</a></td>
       <td>Back-End Engineering</td>
       <td>2024.09</td>
@@ -108,9 +100,14 @@
       <td>Side-Project</td>
       <td><a href="https://github.com/LeeHyunWoo02/PENBOT">PENBOT</a></td>
       <td>Side Project, Back-End Engineering</td>
-      <td>2025.07 ~ </td>
+      <td>2025.07 ~ 2025.09</td>
     </tr>
-
+    <tr>
+      <td>SDU COSS Contest</td>
+      <td><a href="https://github.com/SDDsmash/smash_backend">SMASH</a></td>
+      <td>Back-End Engineering</td>
+      <td>2025.10</td>
+    </tr>
   </table>
 </div>
 
