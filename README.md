@@ -79,27 +79,30 @@
     <tr>
       <th>Organization</th>
       <th>Project Name</th>
+      <th>award</th>
       <th>Role</th>
       <th>Period</th>
     </tr>
     <tr>
       <td>Hanyang-Univ</td>
       <td><a href="https://github.com/ForLongTeam/ForLong-backend"> ForLong</a></td>
+      <th>SID 상</th>
       <td>Back-End Engineering</td>
       <td>2024.09</td>
     </tr>
     <tr>
-      <td>Hanyang-Univ</td>
+      <td>창업메이커톤스 대회</td>
       <td><a href="https://github.com/LeeHyunWoo02/KnowMe-Backend.git"> FishShip</a></td>
-      <td>Back-End Engineering</td>
+      <td> 우수상 / 한양대학교 총장상</td>
  상</td>
-      <td>우수상</td>
+      <td>Back-End Engineering </td>
       <td>2025.06</td>
     </tr>
     <tr>
-      <td><a href="">Contest</a></td>
-      <td>2025 소프트웨어 개발보안 시큐어코딩 / 한국인터넷진흥원장상</td>
+      <td><a href="">2025 소프트웨어 개발보안 시큐어코딩 대회</a></td>
+      <td> 스매시 / 한국인터넷진흥원장상 </td>
       <td>최우수상</td>
+      <td>Back-End Engineering </td>
       <td>2025.11</td>
     </tr>
 
