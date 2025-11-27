@@ -127,6 +127,12 @@
       <td>우수상</td>
       <td>2025.06</td>
     </tr>
+    <tr>
+      <td><a href="">Contest</a></td>
+      <td>2025 소프트웨어 개발보안 시큐어코딩</td>
+      <td>최우수상</td>
+      <td>2025.11</td>
+    </tr>
 
   </table>
 </div>
