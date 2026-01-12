@@ -99,7 +99,7 @@
       <td>2025.06</td>
     </tr>
     <tr>
-      <td><a href="">2025 소프트웨어 개발보안 시큐어코딩 대회</a></td>
+      <td><a href="https://github.com/SDDsmash/smash_backend">2025 소프트웨어 개발보안 시큐어코딩 대회</a></td>
       <td> 스매시 / 한국인터넷진흥원장상 </td>
       <td>최우수상</td>
       <td>Back-End Engineering </td>
