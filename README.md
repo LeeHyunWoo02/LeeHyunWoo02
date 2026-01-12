@@ -105,6 +105,13 @@
       <td>Back-End Engineering </td>
       <td>2025.11</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/PENBOT">Side Project</a></td>
+      <td> Penbot </td>
+      <td> - </td>
+      <td>Back-End Engineering </td>
+      <td>2025.08 / 2026.01</td>
+    </tr>
 
   </table>
 </div>
