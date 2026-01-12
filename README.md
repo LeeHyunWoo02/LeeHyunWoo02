@@ -106,7 +106,7 @@
       <td>2025.11</td>
     </tr>
     <tr>
-      <td><a href="[https://github.com/PENBOT](https://github.com/LeeHyunWoo02/PENBOT)">Side Project</a></td>
+      <td><a href="https://github.com/LeeHyunWoo02/PENBOT">Side Project</a></td>
       <td> Penbot </td>
       <td> - </td>
       <td>Back-End Engineering </td>
