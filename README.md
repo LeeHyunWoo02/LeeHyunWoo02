@@ -86,7 +86,7 @@ B2B 서비스 설계 시 시장조사를 통해 기획자를 설득하고, 프�
 ## 📚 Projects
 
 ### 🎬 MOOV — 바이오리듬 기반 개인화 영화 추천 서비스
-> `Capstone Project` | 2025.12 ~ 2026.03
+> `Capstone Project` 🏅 캡스톤 Fair 장려상 | 2025.12 ~ 2026.06
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LeeHyunWoo02)
 
