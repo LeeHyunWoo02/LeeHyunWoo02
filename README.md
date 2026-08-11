@@ -132,8 +132,8 @@ B2B 서비스 설계 시 시장조사를 통해 기획자를 설득하고, 프�
 ### 🏕️ WEIVER — AI 면접 역매칭 서비스
 > `Side Project` | 2025.08 ~ 2026.01
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LeeHyunWoo02/PENBOT)
-[![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://github.com/LeeHyunWoo02/PENBOT)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TEAM-WEIVER/WEIVER-SERVER.git)
+[![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://github.com/TEAM-WEIVER/WEIVER-SERVER.git)
 
 - AWS + Docker + GitHub Actions **CI/CD 파이프라인** 구축
 - `Spring Boot` `Spring Security` `PostgreSQL` `RabbitMQ` `Docker` `Nginx`
